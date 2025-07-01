@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JimiWrd (Jimi)
 - 👀 In my spare time I train in Muay Thai, hit the gym, go on hikes with my dog, and occasionally play on my guitar or drums!
-- 🌱 I’m currently working as a Full Stack Software Dev; my core skill set consists of Spring Boot, Java (8-21), React (NextJS), and AWS Cloud Services (S3, Lambda, EKS, ECS, CodeBuild, etc). I also have experience in Kotlin, Groovy, Micronaut, C#, Python; I love learning new things!
+- 🌱 I’m currently working as a Full Stack Software Dev; my core skill set consists of Spring Boot, Java (8-21), React (NextJS), and AWS Cloud Services (S3, Lambda, EKS, ECS, CodeBuild, etc). I also have experience in Kotlin, Groovy, Micronaut, C#, and Python; I love learning new things!
 - 🔨 Check out my portfolio website (jimiward.dev) and GitHub projects for some examples of my stack in action! I'm currently building a cloud-native fitness platform targeting neurodivergent athletes, aptly named NeuroFit.
 
 <!---
